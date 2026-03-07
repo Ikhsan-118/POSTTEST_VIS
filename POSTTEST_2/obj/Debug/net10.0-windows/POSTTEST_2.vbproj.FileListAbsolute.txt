@@ -1,0 +1,17 @@
+D:\A.Kuliah\Semester 4\PV - Pemrograman Visual\POSTTEST_2\POSTTEST_2\bin\Debug\net10.0-windows\POSTTEST_2.exe
+D:\A.Kuliah\Semester 4\PV - Pemrograman Visual\POSTTEST_2\POSTTEST_2\bin\Debug\net10.0-windows\POSTTEST_2.deps.json
+D:\A.Kuliah\Semester 4\PV - Pemrograman Visual\POSTTEST_2\POSTTEST_2\bin\Debug\net10.0-windows\POSTTEST_2.runtimeconfig.json
+D:\A.Kuliah\Semester 4\PV - Pemrograman Visual\POSTTEST_2\POSTTEST_2\bin\Debug\net10.0-windows\POSTTEST_2.dll
+D:\A.Kuliah\Semester 4\PV - Pemrograman Visual\POSTTEST_2\POSTTEST_2\bin\Debug\net10.0-windows\POSTTEST_2.pdb
+D:\A.Kuliah\Semester 4\PV - Pemrograman Visual\POSTTEST_2\POSTTEST_2\obj\Debug\net10.0-windows\POSTTEST_2.Form1.resources
+D:\A.Kuliah\Semester 4\PV - Pemrograman Visual\POSTTEST_2\POSTTEST_2\obj\Debug\net10.0-windows\POSTTEST_2.Resources.resources
+D:\A.Kuliah\Semester 4\PV - Pemrograman Visual\POSTTEST_2\POSTTEST_2\obj\Debug\net10.0-windows\POSTTEST_2.vbproj.GenerateResource.cache
+D:\A.Kuliah\Semester 4\PV - Pemrograman Visual\POSTTEST_2\POSTTEST_2\obj\Debug\net10.0-windows\POSTTEST_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\A.Kuliah\Semester 4\PV - Pemrograman Visual\POSTTEST_2\POSTTEST_2\obj\Debug\net10.0-windows\POSTTEST_2.AssemblyInfoInputs.cache
+D:\A.Kuliah\Semester 4\PV - Pemrograman Visual\POSTTEST_2\POSTTEST_2\obj\Debug\net10.0-windows\POSTTEST_2.AssemblyInfo.vb
+D:\A.Kuliah\Semester 4\PV - Pemrograman Visual\POSTTEST_2\POSTTEST_2\obj\Debug\net10.0-windows\POSTTEST_2.vbproj.CoreCompileInputs.cache
+D:\A.Kuliah\Semester 4\PV - Pemrograman Visual\POSTTEST_2\POSTTEST_2\obj\Debug\net10.0-windows\POSTTEST_2.dll
+D:\A.Kuliah\Semester 4\PV - Pemrograman Visual\POSTTEST_2\POSTTEST_2\obj\Debug\net10.0-windows\refint\POSTTEST_2.dll
+D:\A.Kuliah\Semester 4\PV - Pemrograman Visual\POSTTEST_2\POSTTEST_2\obj\Debug\net10.0-windows\POSTTEST_2.pdb
+D:\A.Kuliah\Semester 4\PV - Pemrograman Visual\POSTTEST_2\POSTTEST_2\obj\Debug\net10.0-windows\POSTTEST_2.genruntimeconfig.cache
+D:\A.Kuliah\Semester 4\PV - Pemrograman Visual\POSTTEST_2\POSTTEST_2\obj\Debug\net10.0-windows\ref\POSTTEST_2.dll
